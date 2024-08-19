@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="950" src="https://github.com/user-attachments/assets/993fa6d6-6311-4e89-b2bc-57475b4cda2b"/>
+  <img height="400" width="950" src="https://github.com/user-attachments/assets/993fa6d6-6311-4e89-b2bc-57475b4cda2b"  />
 </div>
 
 ###
@@ -41,13 +41,25 @@
 
 ###
 
-<h3 align="center">My Github Stats</h3>
+<h3 align="center">📊My Github Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HMarsh14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HMarsh14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HMarsh14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=radical&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h1 align="center"></h1>
+
+###
+
+<h3 align="center">🏆Contributions</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/HMarsh14/HMarsh14/output/snake.svg" alt="Snake animation" />
 
 ###
