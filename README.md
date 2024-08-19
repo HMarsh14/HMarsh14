@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HMarsh14/HMarsh14/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/HMarsh14/HMarsh14/blob/output/github-contribution-grid-snake.svg)
 
 ###
