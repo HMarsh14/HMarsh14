@@ -4,7 +4,7 @@
 
 <p align="left">I'm a british python developer, constantly learning new languages and tools, programming my digital world one step at a time. All of my projects are built from the very bottom, from the planning and designing aspects all the way to solving problems through code.</p>
 
-Portfolio : [<a href="https://hmarsh14.github.io" target="_blank">Here</a>](https://hmarsh14.github.io)
+Portfolio : <a href="https://hmarsh14.github.io" target="_blank">Here</a>
 
 ###
 
